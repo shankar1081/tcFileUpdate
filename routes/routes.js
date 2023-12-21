@@ -206,7 +206,7 @@ var ctrlAuth = require('../controllers/authCntrl');
 // // router.get("/getAllIndexes",elasticCtrl.getAllIndexes)
 // router.post("/saveInterumTrans",projectCtrl.saveTransFile)
 // router.post('/UploadTCFile',ctrlAuth.UploadTCFile);
-router.post('/generate',ctrlAuth.generate);
+// router.post('/generate',ctrlAuth.generate);
 
 
 module.exports = router;
