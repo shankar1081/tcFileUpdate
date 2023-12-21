@@ -1,0 +1,2 @@
+[2023-01-08 18:54:49,465] WARN Exception causing close of session 0x10076f353f30000: Connection reset (org.apache.zookeeper.server.NIOServerCnxn)
+[2023-01-08 18:55:06,109] INFO Expiring session 0x10076f353f30000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)

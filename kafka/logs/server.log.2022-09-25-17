@@ -1,0 +1,2 @@
+[2022-09-25 17:49:13,899] WARN Exception causing close of session 0x100590e6b9c0000: Connection reset (org.apache.zookeeper.server.NIOServerCnxn)
+[2022-09-25 17:49:31,251] INFO Expiring session 0x100590e6b9c0000, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)

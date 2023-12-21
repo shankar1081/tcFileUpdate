@@ -1,0 +1,2 @@
+[2021-08-09 10:12:16,986] WARN Exception causing close of session 0x1043413c9430001: Connection reset (org.apache.zookeeper.server.NIOServerCnxn)
+[2021-08-09 10:12:36,140] INFO Expiring session 0x1043413c9430001, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
